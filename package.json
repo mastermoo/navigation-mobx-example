@@ -1,0 +1,16 @@
+{
+  "name": "NavigationMobxExample",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "dependencies": {
+    "babel-preset-react-native-stage-0": "^1.0.1",
+    "mobx": "^2.4.3",
+    "mobx-react": "^3.5.5",
+    "react": "15.2.1",
+    "react-native": "^0.30.0",
+    "react-native-navigation": "^1.0.30"
+  }
+}
